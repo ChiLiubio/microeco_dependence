@@ -3,7 +3,7 @@
 A collection of some dependent packages (those deposited in Github) of R microeco package
 
 ## Download
-
+https://github.com/ChiLiubio/microeco_dependence/releases/download/v0.17.0/microeco_dependence.zip
 
 ## Packages
 
